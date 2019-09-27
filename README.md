@@ -5,4 +5,4 @@ Este projeto consiste em utilizar um Arduino Uno e um Display 16x2 para fazer um
 
 ## Instruções
 Siga a ligação da imagem abaixo para o correto funcionamento do projeto. O código esta programado para funcionar o display sem o módulo i2c para displays.
-<img src="https://user-images.githubusercontent.com/18702896/55975526-90f37180-5c60-11e9-8615-6c0881c9653e.png"/>
+<img src="https://user-images.githubusercontent.com/18702896/65741993-ad774f00-e0c4-11e9-8b56-88f897fbaa0a.jpg"/>
